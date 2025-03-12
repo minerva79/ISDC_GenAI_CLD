@@ -1,0 +1,18 @@
+Node.ID,Node.Description
+A01,Population
+A02,Population ageing
+A03,Chronic Disease Burden
+A04,Burden of frailty
+A05a,Acute care needs
+A05b,Rehab care needs
+A05c,Sub-acute care needs
+A06a,Unavoidable AH LOS
+A06b,Avoidable AH LOS
+A07a,Unavoidable AH inpatient-days
+A07b,Avoidable AH inpatient-days
+A08,AH beds required
+A09,AH capacity increases
+A10,AH capacity gap
+A11,Waiting time for AH beds
+A12,Unmet needs
+A13,AH inpatient admissions
